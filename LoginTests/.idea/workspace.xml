@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ce277d41-3b64-445d-8381-ca02a08fe71b" name="Changes" comment="" />
+    <list default="true" id="ce277d41-3b64-445d-8381-ca02a08fe71b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/LoginTests.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LoginTests.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Package1/Logintests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Package1/Logintests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestSuite/All_Tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestSuite/All_Tests.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +75,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for Logintests.LoginScenarios" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for Logintests.LoginScenarios.test_invalid_password" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="LoginTests" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,7 +85,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Logintests.LoginScenarios&quot;" />
+      <option name="_new_target" value="&quot;Logintests.LoginScenarios.test_invalid_password&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -115,17 +120,17 @@
     <list>
       <item itemvalue="Python.All_Tests" />
       <item itemvalue="Python tests.Nosetests in Logintests.py" />
-      <item itemvalue="Python tests.Unittests for Logintests.LoginScenarios" />
       <item itemvalue="Python tests.Unittests for Logintests.LoginScenarios.test_invalid_username" />
       <item itemvalue="Python tests.Unittests for Logintests.LoginScenarios.test_successful_login" />
+      <item itemvalue="Python tests.Unittests for Logintests.LoginScenarios.test_invalid_password" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.All_Tests" />
+        <item itemvalue="Python tests.Unittests for Logintests.LoginScenarios.test_invalid_password" />
+        <item itemvalue="Python tests.Nosetests in Logintests.py" />
         <item itemvalue="Python tests.Unittests for Logintests.LoginScenarios.test_invalid_username" />
         <item itemvalue="Python tests.Unittests for Logintests.LoginScenarios.test_successful_login" />
-        <item itemvalue="Python tests.Unittests for Logintests.LoginScenarios" />
-        <item itemvalue="Python tests.Nosetests in Logintests.py" />
       </list>
     </recent_temporary>
   </component>

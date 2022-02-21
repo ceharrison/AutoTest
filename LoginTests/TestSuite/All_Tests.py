@@ -5,6 +5,6 @@ from Package1.Logintests import LoginScenarios
 tc = unittest.TestLoader().loadTestsFromTestCase(LoginScenarios)
 
 # Creating test suite
-currentTestSuite=unittest.TestSuite([tc])
+currentTestSuite = unittest.TestSuite([tc])
 
 unittest.TextTestRunner(verbosity=2).run(currentTestSuite)
